@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+.card{
+  background-color: lightsteelblue;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 5px;
+}
+
+.nav{
+  background-color: orangered;
+  display: flex;
+  justify-content: center;
+}
